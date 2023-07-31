@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![nathaniellybrand](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{nathaniellybrand})
-
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{nathaniellybrand}/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{nathaniellybrand}/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{nathaniellybrand}/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{nathaniellybrand}/discussion)
 
