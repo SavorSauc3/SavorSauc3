@@ -9,11 +9,8 @@
 <img align="left" height="300" width="300" src="https://3327764216-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F22VnR50PeDhOxZA8vMOm%2Fuploads%2FOCSyQCDlLOksHGZSyhrL%2FVoidWizard.jpg?alt=media&token=bcb3df27-c115-4e34-9ea0-03f54c71e89d">
 
 - 👾 Currently learning about Data Science and Machine Learning using python🐍
-<br>
 - 🌟 All my other projects can be found on [GitHub](https://github.com/SavorSauc3)
-<br>
 - 🐟 My other projects can be found on [Kaggle](https://www.kaggle.com/nathaniellybrand)
-<br>
 <hr>
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/dataset)
