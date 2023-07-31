@@ -6,7 +6,7 @@
 --Douglas Crockford, JSON inventor, on JSON's relation to XML</h3>
 <hr>
 
-<img align="left" height="300" width="300" src="https://3327764216-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F22VnR50PeDhOxZA8vMOm%2Fuploads%2FOCSyQCDlLOksHGZSyhrL%2FVoidWizard.jpg?alt=media&token=bcb3df27-c115-4e34-9ea0-03f54c71e89d">
+<img align="left" height="300" width="270" src="https://3327764216-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F22VnR50PeDhOxZA8vMOm%2Fuploads%2FOCSyQCDlLOksHGZSyhrL%2FVoidWizard.jpg?alt=media&token=bcb3df27-c115-4e34-9ea0-03f54c71e89d">
 
 - 👾 Currently learning about **Data Science** and **Machine Learning** using python🐍
 - 🌟 All non-data science projects can be found on [GitHub](https://github.com/SavorSauc3)
