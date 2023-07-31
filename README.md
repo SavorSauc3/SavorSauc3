@@ -4,6 +4,8 @@
 <h3 align="center">"The good thing about reinventing the wheel is that you can get a round one."
 
 --Douglas Crockford, JSON inventor, on JSON's relation to XML</h3>
+<br>
+<hr>
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/dataset)
