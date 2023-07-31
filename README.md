@@ -11,6 +11,7 @@
 - 👾 Currently learning about Data Science and Machine Learning using python🐍
 - 🌟 All my other projects can be found on [GitHub](https://github.com/SavorSauc3)
 - 🐟 My other projects can be found on [Kaggle](https://www.kaggle.com/nathaniellybrand)
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/notebook)
