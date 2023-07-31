@@ -17,11 +17,9 @@
 <br>
 </div>
 <hr>
-<div align="center">
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/discussion)
-</div>
 
 
