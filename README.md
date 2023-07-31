@@ -10,8 +10,11 @@
 
 <div align="left">
 - 👾 Currently learning about Data Science and Machine Learning using python🐍
+<br>
 - 🌟 All my other projects can be found on ![GitHub](https://github.com/SavorSauc3)
+<br>
 - 🐟 My other projects can be found on ![Kaggle](https://www.kaggle.com/nathaniellybrand)
+<br>
 </div>
 <hr>
 <div align="center">
