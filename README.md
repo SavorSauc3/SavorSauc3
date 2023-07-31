@@ -18,4 +18,14 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/discussion)
 
+<div align="center">
+<a href="https://www.linkedin.com/in/nathaniel-lybrand-4b7664276/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+<a href="https://stackoverflow.com/users/22069316/savorsauce" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
+</a>
+<a href="https://www.youtube.com/channel/UCHChdE1CU1xzONQMevxfvcw" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube logo" />
+</a>
 
