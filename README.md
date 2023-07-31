@@ -13,11 +13,6 @@
 - 🐟 My other projects can be found on [Kaggle](https://www.kaggle.com/nathaniellybrand)
 - My email is **savorsauce@gmail.com**
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/discussion)
-
 <div align="center">
 <a href="https://www.linkedin.com/in/nathaniel-lybrand-4b7664276/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -30,3 +25,7 @@
 </a>
 </div>
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/discussion)
