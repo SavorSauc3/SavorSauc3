@@ -2,6 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there,+I'm+SavorSauce+%F0%9F%98%87" alt="greeting"/></a></h1>
 
 <h3 align="center">“The saddest aspect of life right now is that it gathers knowledge faster than society gathers wisdom.”
+  <br>
 --Isaac Asimov</h3>
 <hr>
 
