@@ -25,6 +25,8 @@
 </a>
 </div>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="44c00022-9128-4a45-a682-d4a24ec8d43c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/notebook)
