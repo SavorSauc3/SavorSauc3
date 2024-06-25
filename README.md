@@ -24,8 +24,3 @@
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube logo" />
 </a>
 </div>
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathaniellybrand/discussion)
