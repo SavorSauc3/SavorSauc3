@@ -27,5 +27,5 @@
 </div>
 
 <div align="center">
-<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?YOURKAGGLEUSERNAME" alt="Hsiang's Kaggle Summary Card">
+<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?nathaniellybrand" alt="Hsiang's Kaggle Summary Card">
 </div>
