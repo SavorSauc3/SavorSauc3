@@ -38,7 +38,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/c2292fab-e958-4cdc-8187-c50113ac5a92" alt="Screenshot 2024-07-20 170921" style="max-width: 80%; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/c2292fab-e958-4cdc-8187-c50113ac5a92" alt="Screenshot 2024-07-20 170921" style="max-width: 60%; height: auto;"/>
 </div>
 
 <hr>
