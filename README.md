@@ -17,10 +17,12 @@
 <img align="left" height="270" width="210" src="https://3327764216-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F22VnR50PeDhOxZA8vMOm%2Fuploads%2FOCSyQCDlLOksHGZSyhrL%2FVoidWizard.jpg?alt=media&token=bcb3df27-c115-4e34-9ea0-03f54c71e89d" alt="Void Wizard" />
 
 <div style="margin-left: 220px;">
-- 👾 Currently learning about **Data Science** and **Machine Learning** using Python 🐍
-- 🌟 All projects I make YouTube videos about can be found on [GitHub](https://github.com/SavorSauc3)
-- 🐟 My Data Science projects and competitions can be found on [Kaggle](https://www.kaggle.com/nathaniellybrand)
-- 📧 My email is **savorsauce@gmail.com**
+<ul>
+  <li>👾 Currently learning about <strong>Data Science</strong> and <strong>Machine Learning</strong> using Python 🐍</li>
+  <li>🌟 All projects I make YouTube videos about can be found on <a href="https://github.com/SavorSauc3">GitHub</a></li>
+  <li>🐟 My Data Science projects and competitions can be found on <a href="https://www.kaggle.com/nathaniellybrand">Kaggle</a></li>
+  <li>📧 My email is <strong>savorsauce@gmail.com</strong></li>
+</ul>
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -36,5 +38,5 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/c2292fab-e958-4cdc-8187-c50113ac5a92" alt="Screenshot 2024-07-20 170921" style="max-width: 100%; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/c2292fab-e958-4cdc-8187-c50113ac5a92" alt="Screenshot 2024-07-20 170921" style="max-width: 80%; height: auto;"/>
 </div>
