@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there,+I'm+SavorSauce+%F0%9F%98%87" alt="greeting"/></a>
+  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there,+I'm+SavorSauce+%F0%9F%98%87" alt="greeting"/></a>
 </h1>
 
 <p align="center">
@@ -17,12 +17,12 @@
 <img align="left" height="270" width="210" src="https://3327764216-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F22VnR50PeDhOxZA8vMOm%2Fuploads%2FOCSyQCDlLOksHGZSyhrL%2FVoidWizard.jpg?alt=media&token=bcb3df27-c115-4e34-9ea0-03f54c71e89d" alt="Void Wizard" />
 
 <div style="margin-left: 220px;">
-<ul style="list-style-type: disc; margin-left: 20px;">
-  <li>👾 Currently learning about <strong>Data Science</strong> and <strong>Machine Learning</strong> using Python 🐍</li>
-  <li>🌟 All projects I make YouTube videos about can be found on <a href="https://github.com/SavorSauc3" target="_blank">GitHub</a></li>
-  <li>🐟 My Data Science projects and competitions can be found on <a href="https://www.kaggle.com/nathaniellybrand" target="_blank">Kaggle</a></li>
-  <li>📧 My email is <strong>savorsauce@gmail.com</strong></li>
-</ul>
+  <ul style="list-style-type: disc; margin-left: 20px;">
+    <li>👾 Currently learning about <strong>Data Science</strong> and <strong>Machine Learning</strong> using Python 🐍</li>
+    <li>🌟 All projects I make YouTube videos about can be found on <a href="https://github.com/SavorSauc3" target="_blank">GitHub</a></li>
+    <li>🐟 My Data Science projects and competitions can be found on <a href="https://www.kaggle.com/nathaniellybrand" target="_blank">Kaggle</a></li>
+    <li>📧 My email is <strong>savorsauce@gmail.com</strong></li>
+  </ul>
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -38,7 +38,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/c2292fab-e958-4cdc-8187-c50113ac5a92" alt="Screenshot 2024-07-20 170921" style="max-width: 100; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/c2292fab-e958-4cdc-8187-c50113ac5a92" alt="Screenshot 2024-07-20 170921" style="max-width: 150px; height: auto;"/>
 </div>
 
 <hr>
@@ -69,30 +69,17 @@
   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript" /></a>
   <a href="https://www.html5rocks.com/en/" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="HTML5" /></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3" /></a>
 
   <h4>Libraries</h4>
-  <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" height="30" alt="OpenCV" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" alt="React" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="TailwindCSS" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="30" alt="Vue.js" /></a>
-  <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="30" alt="Keras" /></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="30" alt="Matplotlib" /></a>
-  <a href="https://www.mlflow.org/" target="_blank"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" height="30" alt="mlflow" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="NumPy" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="Pandas" /></a>
-  <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" height="30" alt="Plotly" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="30" alt="PyTorch" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" alt="scikit-learn" /></a>
-  <a href="https://www.scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" height="30" alt="SciPy" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="30" alt="TensorFlow" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" height="30" alt="Vue.js" /></a>
+  <a href="https://d3js.org/" target="_blank"><img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" height="30" alt="D3.js" /></a>
 
   <h4>Tools</h4>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="30" alt="Unity" /></a>
-  <a href="https://www.godotengine.org/" target="_blank"><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" height="30" alt="Godot Engine" /></a>
-  <a href="https://www.unrealengine.com/" target="_blank"><img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" height="30" alt="Unreal Engine" /></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Vercel" /></a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" height="30" alt="PowerShell" /></a>
-  <a href="https://www.microsoft.com/windows-terminal" target="_blank"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" height="30" alt="Windows Terminal" /></a>
-  <a href="https://yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" height="30" alt="Yarn" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" /></a>
+  <a href="https://www.github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman" /></a>
+  <a href="https://www.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" height="30" alt="Visual Studio" /></a>
 </div>
