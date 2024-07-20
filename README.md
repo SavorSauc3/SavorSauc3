@@ -1,5 +1,6 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there,+I'm+SavorSauce+%F0%9F%98%87" alt="greeting"/></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there,+I'm+SavorSauce+%F0%9F%98%87" alt="greeting"/></a>
+</h1>
 
 <h3 align="center">“The saddest aspect of life right now is that it gathers knowledge faster than society gathers wisdom.”
   <br>
@@ -23,5 +24,8 @@
 <a href="https://www.youtube.com/channel/UCHChdE1CU1xzONQMevxfvcw" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube logo" />
 </a>
+</div>
+
+<div align="center">
 <iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?nathaniellybrand" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
 </div>
