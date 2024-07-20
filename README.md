@@ -23,4 +23,5 @@
 <a href="https://www.youtube.com/channel/UCHChdE1CU1xzONQMevxfvcw" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube logo" />
 </a>
+<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?nathaniellybrand" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
 </div>
