@@ -27,5 +27,6 @@
 </div>
 
 <div align="center">
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?savorsauce)
+![Screenshot 2024-07-20 170921](https://github.com/user-attachments/assets/c2292fab-e958-4cdc-8187-c50113ac5a92)
 </div>
+
