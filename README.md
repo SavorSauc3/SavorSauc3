@@ -15,7 +15,7 @@
 <hr>
 
 <img align="left" height="270" width="210" src="https://3327764216-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F22VnR50PeDhOxZA8vMOm%2Fuploads%2FOCSyQCDlLOksHGZSyhrL%2FVoidWizard.jpg?alt=media&token=bcb3df27-c115-4e34-9ea0-03f54c71e89d" alt="Void Wizard" />
-
+[![SavorSauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=savorsauc3)](https://github.com/anuraghazra/github-readme-stats)
 <div style="margin-left: 220px;">
   <ul style="list-style-type: disc; margin-left: 20px;">
     <li>👾 Currently learning about <strong>Data Science</strong> and <strong>Machine Learning</strong> using Python 🐍</li>
