@@ -14,7 +14,7 @@
 
 <hr>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=SavorSauc3&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a><div style="margin-left: 220px;">
+  <a href="https://github-readme-stats.vercel.app"><img src="http://github-readme-streak-stats.herokuapp.com?user=SavorSauc3&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a><div style="margin-left: 220px;">
 </div>
   <ul style="list-style-type: disc; margin-left: 20px;">
     <li>👾 Currently learning about <strong>Data Science</strong> and <strong>Machine Learning</strong> using Python 🐍</li>
