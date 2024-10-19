@@ -15,7 +15,10 @@
 <hr>
 <div align="center">
   <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=SavorSauc3&show_icons=true&theme=radical" alt="GitHub Streak" /></a><div style="margin-left: 220px;">
-    <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavorSauc3&show_icons=true&theme=radical" alt="GitHub Streak" /></a><div style="margin-left: 220px;">
+</div>
+<div align="right">
+  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavorSauc3&show_icons=true&theme=radical" alt="GitHub Streak" /></a><div style="margin-left: 220px;">
+</div>
 </div>
   <ul style="list-style-type: disc; margin-left: 20px;">
     <li>👾 Currently learning about <strong>Data Science</strong> and <strong>Machine Learning</strong> using Python 🐍</li>
