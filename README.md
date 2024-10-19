@@ -13,7 +13,7 @@
 </h3>
 
 <hr>
-<div align="center">
+<div align="left">
   <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=SavorSauc3&show_icons=true&theme=radical" alt="GitHub Streak" /></a><div style="margin-left: 220px;">
 </div>
 <div align="right">
