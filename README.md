@@ -1,9 +1,13 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there,+I'm+SavorSauce+%F0%9F%98%87" alt="greeting"/></a>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there,+I'm+SavorSauce+%F0%9F%98%87" alt="greeting"/>
+  </a>
 </h1>
 
 <p align="center">
-  <a href="https://savorsauc3.github.io" target="_blank" style="text-decoration: none; color: #0077B5; font-weight: bold; font-size: 18px;">Check my website!</a>
+  <a href="https://savorsauc3.github.io" target="_blank" style="text-decoration: none; color: #0077B5; font-weight: bold; font-size: 18px;">
+    Check my website!
+  </a>
 </p>
 
 <h3 align="center">
@@ -13,35 +17,37 @@
 </h3>
 
 <hr>
-<div align="left">
-  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=SavorSauc3&show_icons=true&theme=radical" alt="GitHub Streak" /></a><div style="margin-left: 220px;">
+
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=SavorSauc3&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavorSauc3&show_icons=true&theme=radical" alt="Top Languages" />
+  </a>
 </div>
-<div align="right">
-  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavorSauc3&show_icons=true&theme=radical" alt="GitHub Streak" /></a><div style="margin-left: 220px;">
-</div>
-</div>
-  <ul style="list-style-type: disc; margin-left: 20px;">
-    <li>👾 Currently learning about <strong>Data Science</strong> and <strong>Machine Learning</strong> using Python 🐍</li>
-    <li>🌟 All projects I make YouTube videos about can be found on <a href="https://github.com/SavorSauc3" target="_blank">GitHub</a></li>
-    <li>🐟 My Data Science projects and competitions can be found on <a href="https://www.kaggle.com/nathaniellybrand" target="_blank">Kaggle</a></li>
-    <li>📧 My email is <strong>savorsauce@gmail.com</strong></li>
-  </ul>
-</div>
+
+<ul style="list-style-type: disc; margin-left: 20px;">
+  <li>👾 Currently learning about <strong>Data Science</strong> and <strong>Machine Learning</strong> using Python 🐍</li>
+  <li>🌟 All projects I make YouTube videos about can be found on <a href="https://github.com/SavorSauc3" target="_blank">GitHub</a></li>
+  <li>🐟 My Data Science projects and competitions can be found on <a href="https://www.kaggle.com/nathaniellybrand" target="_blank">Kaggle</a></li>
+  <li>📧 My email is <strong>savorsauce@gmail.com</strong></li>
+</ul>
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/nathaniel-lybrand-4b7664276/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://www.kaggle.com/nathaniellybrand" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" height="35" alt="kaggle logo" />
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" height="35" alt="Kaggle logo" />
   </a>
   <a href="https://www.youtube.com/channel/UCHChdE1CU1xzONQMevxfvcw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube logo" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/d94f8f35-1151-4f75-b6cb-655a78aa4085" alt="Screenshot 2024-07-20 170921" style="max-width: 150px; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/d94f8f35-1151-4f75-b6cb-655a78aa4085" alt="Profile image" style="max-width: 150px; height: auto;"/>
 </div>
 
 <hr>
