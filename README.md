@@ -14,7 +14,6 @@
 
 <hr>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=SavorSauc3&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a><div style="margin-left: 220px;">
-<img align="left" height="270" width="210" src="https://3327764216-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F22VnR50PeDhOxZA8vMOm%2Fuploads%2FOCSyQCDlLOksHGZSyhrL%2FVoidWizard.jpg?alt=media&token=bcb3df27-c115-4e34-9ea0-03f54c71e89d" alt="Void Wizard" />
   <ul style="list-style-type: disc; margin-left: 20px;">
     <li>👾 Currently learning about <strong>Data Science</strong> and <strong>Machine Learning</strong> using Python 🐍</li>
     <li>🌟 All projects I make YouTube videos about can be found on <a href="https://github.com/SavorSauc3" target="_blank">GitHub</a></li>
